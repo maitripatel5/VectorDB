@@ -1,1 +1,2 @@
-# VectorDB
+# Pinecone (Vector Databse)
+
