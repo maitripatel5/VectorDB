@@ -1,7 +1,7 @@
 # Pinecone (Vector Databse)
 -Implemented various use cases word2vec (utilize openAI vector embedding), Semantic and Similarity Search
 
-# Vector Embedding for Answering the questions from the uploaded PDF
+# OpenAI GPT-3.5 Vector Embedding for Answering the questions from the uploaded PDF
 ![QA_by_Embedding](https://github.com/maitripatel5/VectorDB/assets/117126117/a244b9f6-81d3-426b-be25-e267ac9d4155)
 
 # Similarity Search
