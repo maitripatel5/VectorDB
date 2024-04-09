@@ -7,5 +7,5 @@
 # Similarity Search
 ![SimilaritySearch](https://github.com/maitripatel5/VectorDB/assets/117126117/483467a0-2d29-4313-9384-8e5ec432bb6c)
 
-# Pinecone scoring
+# Pinecone Scoring
 ![Pinecone](https://github.com/maitripatel5/VectorDB/assets/117126117/291f929a-cdaa-46be-aadc-cfc7ae34ac83)
